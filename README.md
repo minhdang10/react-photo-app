@@ -1,6 +1,3 @@
-## Live Deploy 
-[Live Deploy](https://mm2-rpa.surge.sh)
-
 ## Wireframe:
 ![Login](/wp_login.png)
 ![Main](/wp_main.png)
