@@ -1,6 +1,6 @@
 ## Wireframe:
-![Login]('wp_login.png')
-![Main]('wp_main.png')
+![Login]('./wp_login.png')
+![Main]('./wp_main.png')
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
